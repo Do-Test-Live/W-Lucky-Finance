@@ -1,1 +1,1 @@
-# W-Licky-Finance
+# W-Lucky-Finance
