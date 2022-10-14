@@ -1,0 +1,69 @@
+header .header-top{
+	height:98px;
+
+}
+
+header .header-top .topleft{
+	float:left;
+	line-height:92px;
+	padding-top:16px;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+header .header-top .topright{
+	float:right;
+	margin-top:32px;
+	line-height:0px;
+	padding-right:12px;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+header .nav{
+	background-color:red;
+	position:relative;
+	height:38px;
+	width:100%
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,6195b5+100 */
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,384a68+100 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(top,  #1e5799 0%, #384a68 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #1e5799 0%,#384a68 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #1e5799 0%,#384a68 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#384a68',GradientType=0 ); /* IE6-9 */
+
+}
+header .center{
+	width:1000px;
+	margin:0 auto;
+}
+
+header .navcenter{
+	width:1000px;
+	margin:0 auto;
+}
+header .nav .navcenter ul {
+	cursor:pointer;
+	list-style-position: inside;
+	float:left;
+	width:20%;
+	text-align:center;
+	color: #ffffff;
+	text-decoration: none;	
+	border-left:1px solid rgb(150,150,150);
+	line-height:38px;
+	font-size:16px;
+	letter-spacing:2px;
+	
+	font-family:Verdana ,微軟正黑體;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+header .nav .navcenter ul:hover{
+	background-color:#fffff;
+	color:#000000;
+	font-size:16px;
+}

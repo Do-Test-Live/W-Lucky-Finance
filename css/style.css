@@ -1,0 +1,535 @@
+﻿body .body{
+	width:1000px;
+	margin:0 auto;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;	
+	 margin-bottom:42px;
+}
+.body .main{
+	width:70%;
+	float:left;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  padding-left:12px;
+
+}
+
+.body .main .main_left{
+	width:55%;
+	float:left;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.body .main .main_left .banner{
+	width:92%;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin-bottom:18px;
+}
+
+
+
+.body .main .main_right{
+	width:45%;
+	float:left;
+	
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.body .side{
+	width:30%;
+	float:left;
+	border-left:1px solid #cccccc;
+box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.body .side .sidebar{
+	width:90%;
+	margin:0 auto;
+}
+
+.body .side .sidebar .sidecontent{
+	height:122px;
+	line-height:px;
+	font-size:18px;
+	margin-bottom:42px;
+}
+
+.body .side .sidebar .sidecontent .sidedesc{
+	margin-top:12px;
+	line-height:22px;
+	font-size:15px;
+	width:90%;
+	color:rgb(90,90,90);
+}
+.body .side .sidebar .sidecontent .more{
+	margin-top:4px;
+	line-height:14px;
+	font-size:14px;
+	color:rgb(90,90,90);
+	text-align:right;
+}
+
+
+.body .side .sidebar .sideimg{
+	margin-top:18px;
+	margin-bottom:18px;
+}
+
+.indexbanner{
+	width:100%;
+	margin-bottom:24px;
+	background-color:rgb(232,232,232);
+}
+
+.indexbanner .imgcontainer{
+	width:1000px;
+	margin:0 auto;
+}
+
+
+footer{
+	
+}
+
+footer .footer_contact .footer_contact_container{
+	padding-bottom:12px;
+	border-bottom:1px solid #aaaaaa;
+	
+	width:1000px;
+	margin:0 auto;
+	margin-bottom:18px;
+}
+footer .footer_contact .footer_contact_container .content{
+	width:33.33%;	
+	margin:0 auto;
+	float:left;
+	text-align:center;
+}
+
+footer .footer_contact .footer_contact_container .content .icon{
+	width:120px;
+	margin:0 auto;
+	margin-bottom:18px;
+}
+footer .footer_contact .footer_contact_container .content .title{line-height:22px;font-size:14px; color:#444444;}
+footer .footer_contact .footer_contact_container .content .highlight{line-height:22px;font-size:14px; color:#444444;}
+footer .footer_contact .footer_contact_container .content .normal{line-height:22px;font-size:12px; color:#999999;padding:12px;padding-left:32px;padding-right:32px;}
+
+footer .footer_first{
+		width:100%
+}
+footer .footer_first_container{
+	width:1000px;	
+	margin:0 auto;		
+}
+
+
+footer .footer_sec{
+	margin-top:24px;
+	width:100%;
+	height:32px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,384a68+100 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(top,  #1e5799 0%, #384a68 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #1e5799 0%,#384a68 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #1e5799 0%,#384a68 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#384a68',GradientType=0 ); /* IE6-9 */
+
+}
+
+footer .footer_sec_container{
+	width:1000px;	
+	margin:0 auto;
+}
+footer .footerleft{
+	float:left;
+}
+
+footer .footerright{
+	float:right;
+}
+
+
+
+footer .footertext{
+	color:white;
+	font-size:14px;
+	font-family:Verdana ,微軟正黑體;
+	line-height:32px;
+}
+footer .footertext2{
+	color:rgb(120,120,120);
+	font-size:12px;
+	font-family:Verdana ,微軟正黑體;
+	line-height:18px;	
+
+}
+footer .footertext3{
+	color:rgb(120,120,120);
+	font-size:16px;
+	font-family:Verdana ,微軟正黑體;
+	line-height:18px;	
+
+}
+.width20{
+	width:20%;
+}
+.width25{
+	width:25%;
+}
+.width30{
+	width:30%;
+}
+.width40{
+	width:40%;
+}
+.width50{
+	width:50%;
+}
+.width60{
+	width:60%;
+}
+.width70{
+	width:70%;
+}
+
+.col1{
+	float:left;
+	clear:left;
+}
+.col{
+	float:left;
+}
+
+
+
+.faq_box{
+	margin-top:20px;
+}
+
+.faq_no{
+	background-image:url(../images/number_bg.png);
+	width:26px;
+	color:#FFF;
+	line-height:26px;
+	text-align:center;
+	float: left;
+}
+
+.faq_right{
+	width:80%;
+	float:left;
+	margin-left:15px;
+	margin-bottom:20px;
+}
+
+.faq_question{
+	line-height:26px;
+	font-size:15px;
+	color:#4F54B8;
+	margin-bottom:6px;
+}
+
+.faq_ans p{
+	margin-top:0px;
+	margin-bottom:0px;
+	line-height:20px;
+}
+
+.faq_ans li{
+	line-height:20px;
+	list-style-type: circle;
+	list-style-position:inside;
+}
+
+.formlabel{
+	float:left;
+	width:40%;
+	line-height:42px;
+	font-size:14px;
+	color:#f0f0f0;
+}
+.formcontent{
+	float:left;
+	width:60%;
+	line-height:42px;
+	font-size:14px;
+	color:#666666;
+}
+.forminput{
+	border-radius: 2px 2px 2px 2px;
+-moz-border-radius: 2px 2px 2px 2px;
+-webkit-border-radius: 2px 2px 2px 2px;
+	width:100%;
+	border-top:2px solid #aaaaaa;
+	border-left:2px solid #aaaaaa;
+	padding-left:8px;
+}
+
+.form select{
+		height:28px;
+	line-height:28px;
+	width:80%;
+	-ms-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	-webkit-box-sizing:content-box; 
+	box-sizing:content-box;	
+}
+
+.formrow{
+	margin-bottom:12px;
+	padding-bottom:12px;
+	border-bottom:1px solid #999999;
+}
+.form{
+
+	width:90%;
+	padding-left:24px;
+	padding-right:24px;
+	padding-top:24px;
+	padding-bottom:24px;
+	border:1px solid #aaaaaa;
+
+	
+	
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;	
+	box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  -webkit-box-sizing: border-box;
+	
+}
+
+.form input{
+	height:28px;
+	line-height:28px;
+	width:80%;
+	
+}
+
+.btn_send{
+	color:white;
+	width:92px;
+	text-align:center;
+	height:38px;
+	line-height:42px;
+	margin-top:24px;
+	background:#449944;
+border-radius: 2px 2px 2px 2px;
+-moz-border-radius: 2px 2px 2px 2px;
+-webkit-border-radius: 2px 2px 2px 2px;
+border: 0px solid #000000;	
+	cursor:pointer;
+	float:right;
+}
+
+.contacttext{
+	line-height:32px;
+	font-size:14px;
+	color:#666666;	
+
+}
+
+.tableleft{
+	font-size:16px;
+	line-height:38px;
+}
+
+.tableright{
+	font-size:16px;
+	line-height:38px;
+	border-left:1px solid #aaaaaa;
+	padding-left:12px;
+}
+
+.tablerow{
+	margin-top:6px;
+	margin-bottom:6px;
+	border-bottom:1px solid #aaaaaa;
+	width:72%;
+	padding-top:6px;
+	padding-bottom:6px;
+}
+.contactustable{
+	margin-bottom:42px;
+}
+
+.calculator_shape{
+
+	
+}
+.calculator .row{
+	padding:8px;
+	
+}
+
+.calculator .answerbtn{
+	background:#888888;
+	width:64%;
+	
+	border-top:2px solid #aaaaaa;
+	border-left:2px solid #aaaaaa;
+	border-right:2px solid #666666;
+	border-bottom:2px solid #666666;
+border-radius: 4px 4px 4px 4px;
+-moz-border-radius: 4px 4px 4px 4px;
+-webkit-border-radius: 4px 4px 4px 4px;
+	color:white;
+	margin:12px;
+	text-align:center;
+line-height:18px;
+	cursor:pointer;
+	margin:12px auto;
+
+}
+
+.calculator .remark{
+	color:#666666;
+	line-height:32px;
+	font-size:14px;
+}
+
+.calculator .header{
+	background:rgb(62,82,199);
+	text-align:center;
+	color:white;
+	font-size:16px;
+	line-height:32px;
+	letter-spacing:2px;
+	
+}
+
+.calculator{
+		display:none;
+		background:#f5f5f5;
+		position:absolute;		
+		border:2px solid #4040e0;
+		
+		
+		width:52%;
+		height:38%;
+		min-height:520px;;
+		left: 0;
+		right: 0;
+		margin-left: auto;
+		margin-right: auto;
+		top:0;
+		bottom:0;
+		margin-top:auto;
+		margin-bottom:auto;
+		z-index:3;
+
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;	
+}
+
+.calculator .header{
+
+	height:24px;
+	line-height:24px;
+
+}
+.closebtn{
+	position:absolute;
+	right:8px;
+	color:white;
+	top:4px;
+	cursor:pointer;
+}
+.overlay_cal{
+	display:none;
+	position:fixed;
+	background-color:rgba(40,40,40,0.84);
+	width:100%;
+	height:100%;
+	z-index:2;
+}
+
+.calculator .row{
+	font-size:16px;
+	color:#666666;
+}
+
+.calculator  input{
+	padding:4px;
+	height:24px;
+	line-height:24px;
+	width:100%;
+-ms-box-sizing:content-box;
+-moz-box-sizing:content-box;
+-webkit-box-sizing:content-box; 
+box-sizing:content-box;	
+}
+
+.calculator select{
+	padding:4px;
+	height:24px;
+	line-height:24px;
+	width:100%;	
+-ms-box-sizing:content-box;
+-moz-box-sizing:content-box;
+-webkit-box-sizing:content-box; 
+box-sizing:content-box;	
+}
+
+.calculator .inputdiv{
+	width:72%;
+	margin:0 auto;	
+	
+}
+.calculator .row{
+	
+	margin-top:0px;
+	margin-bottom:24px;
+}
+
+
+.main h1{
+	font-size:22px;
+	line-height:44px;
+}
+
+.main p{
+	font-size:12px;
+	color:#666666;
+}
+
+.listnum{
+	float: left;
+	width:5%;
+	font-size:12px;
+	color:#666666;
+	line-height:24px;
+}
+
+.listitem{
+	float: left;
+	width:75%;
+	font-size:12px;
+	color:#666666;
+	line-height:24px;
+}
+
+@media only screen and (min-width: 1000px) {
+	
+.overlay_cal{
+	
+		
+}
+.calculator{
+	width:420px;
+	height:520px;
+}
+
+
+}
